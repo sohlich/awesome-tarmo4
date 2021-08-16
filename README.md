@@ -19,7 +19,7 @@
 * [MrJeff's mods](https://www.thingiverse.com/mrjeff/collections/tarmo4)
 
 ## Part mods
-
+* [Full 3D print OpenDiff](https://www.thingiverse.com/thing:4812879)
 * [Steering linkage tightened up](https://www.thingiverse.com/thing:4423157)  
 * [Wheel adapter with spacer](https://www.thingiverse.com/thing:4712918)  
 * [Steering Center Link for metal steering rods](https://www.thingiverse.com/thing:4712939)  
