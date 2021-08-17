@@ -49,6 +49,7 @@
 * [Nylock mod](https://www.thingiverse.com/thing:4576832)
 * [Extended Gearbox](https://www.thingiverse.com/thing:4581117)
 * [6.5x Gearbox](https://www.thingiverse.com/thing:4581261) - for higher kv motors
+* [Universal ball joint](https://grabcad.com/library/steering-uniball-m3-m4-suitable-for-tarmo4-1)
 
 ## Body
 
